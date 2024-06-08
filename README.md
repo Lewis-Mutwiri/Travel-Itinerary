@@ -17,8 +17,6 @@ The Travel Itinerary Organizer is a software solution designed to assist users i
 3. Data validation, error handling, and testing.
 4. Documentation preparation, final testing, and project submission.
 
-[Trello board for project management](https://trello.com/b/xyyCnq0u/travel-itinerary-organizer)
-
 ## How to Use
 
 To use the Travel Itinerary Organizer, follow these steps:
