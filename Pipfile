@@ -4,8 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+sqlalchemy = "*"
+faker = "*"
+colorama = "*"
+emoji = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
+python_full_version = "3.8.13"
